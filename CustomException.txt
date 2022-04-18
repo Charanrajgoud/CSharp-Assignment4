@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Csharp_Assignments
+namespace Assignment4
 {
    
         //Creating our own Exception Class by inheriting Exception class
